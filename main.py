@@ -959,4 +959,4 @@ async def ticket_config(ctx):
         await ctx.channel.send(embed=embed)
 
 bot.add_cog(Player(bot))
-bot.run("ODcwMjg3NDMwMzY2OTQ1MzUw.YQKkVA.FBpatt_LKLc3zxncFirEnmGyoZU") 
+bot.run("") 
